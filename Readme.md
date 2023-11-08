@@ -76,5 +76,9 @@ Feel free to extend and modify the project according to your specific needs and 
 - dotenv: A library for loading environment variables from a .env file..
 
 
+## Backend deployed link
+
+ `https://book-store-w9ax.onrender.com`.
+ 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

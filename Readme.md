@@ -73,8 +73,8 @@ Feel free to extend and modify the project according to your specific needs and 
 
 - Express: A web framework for building the API.
 - Mongoose: An ODM library for MongoDB.
-- dotenv: A library for loading environment variables from a .env file.
+- dotenv: A library for loading environment variables from a .env file..
+
 
 ## License
-
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
